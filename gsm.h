@@ -1,3 +1,4 @@
+/*Import this library for the proper functioning of the SEND SMS Code  */
 #ifndef GSM_H
 #define GSM_H
 
